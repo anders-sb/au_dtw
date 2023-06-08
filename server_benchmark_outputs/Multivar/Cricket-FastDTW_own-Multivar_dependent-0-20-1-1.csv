@@ -1,0 +1,22 @@
+Method,Window size,Round 1 time (s),Average time (s),Error Rate (1NN)
+FastDTW_own-Multivar_dependent,0,597.316964166,597.316964166,0.0
+FastDTW_own-Multivar_dependent,1,1615.074047806,1615.074047806,0.0
+FastDTW_own-Multivar_dependent,2,2524.415951982,2524.415951982,0.0
+FastDTW_own-Multivar_dependent,3,3455.632914241,3455.632914241,0.0
+FastDTW_own-Multivar_dependent,4,4560.867113422,4560.867113422,0.0
+FastDTW_own-Multivar_dependent,5,5449.638551521,5449.638551521,0.0
+FastDTW_own-Multivar_dependent,6,6197.720358698,6197.720358698,0.0
+FastDTW_own-Multivar_dependent,7,6907.751190227,6907.751190227,0.0
+FastDTW_own-Multivar_dependent,8,7328.293296861,7328.293296861,0.0
+FastDTW_own-Multivar_dependent,9,6211.809861947,6211.809861947,0.0
+FastDTW_own-Multivar_dependent,10,5292.660402657,5292.660402657,0.0
+FastDTW_own-Multivar_dependent,11,5605.818394059,5605.818394059,0.0
+FastDTW_own-Multivar_dependent,12,6580.662308918,6580.662308918,0.0
+FastDTW_own-Multivar_dependent,13,9599.817505087,9599.817505087,0.0
+FastDTW_own-Multivar_dependent,14,9112.655612257,9112.655612257,0.0
+FastDTW_own-Multivar_dependent,15,8768.755911876,8768.755911876,0.0
+FastDTW_own-Multivar_dependent,16,7840.109346105,7840.109346105,0.0
+FastDTW_own-Multivar_dependent,17,8918.702683302,8918.702683302,0.0
+FastDTW_own-Multivar_dependent,18,8217.464700841,8217.464700841,0.0
+FastDTW_own-Multivar_dependent,19,7811.193783063,7811.193783063,0.0
+FastDTW_own-Multivar_dependent,20,7912.361140887,7912.361140887,0.0
