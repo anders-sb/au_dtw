@@ -1,0 +1,1 @@
+To use data from the UCR Archive extract the archive into this folder. Access the UCR Archive at https://www.cs.ucr.edu/~eamonn/time_series_data_2018/
